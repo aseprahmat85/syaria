@@ -1,0 +1,1 @@
+{"ipAddress00":"","ipAddress01":"","ipAddress02":"","ipAddress03":"","ipAddress04":"","portNumber00":6431,"portNumber01":6432,"portNumber02":6433,"portNumber03":6434,"portNumber04":6435,"password":"","captcha":"","pathLogBackup":"","cleansingHour":0,"logDayDiff":0}
